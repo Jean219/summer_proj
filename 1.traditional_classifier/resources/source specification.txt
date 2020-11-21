@@ -1,0 +1,7 @@
+1、name_gender.csv
+Gender by Name, DATASET BY DEREK HOWARD
+https://data.world/howarder/gender-by-name
+
+2、name.csv 
+new born baby name
+https://open.alberta.ca/opendata/frequency-and-ranking-of-baby-names-by-year-and-gender
